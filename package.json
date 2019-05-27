@@ -1,0 +1,24 @@
+{
+  "name": "introduction-translator",
+  "version": "1.0.0",
+  "description": "This module helps you translate a basic introduction in multiple languages",
+  "main": "dist/index.js",
+  "umd:main": "dist/index.umd.js",
+  "module": "dist/index.mjs",
+  "source": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valevassallo/introduction-translator.git"
+  },
+  "keywords": [
+    "translate",
+    "translator",
+    "introduction",
+    "codeable"
+  ],
+  "author": "Valeria Vassallo <valevassallo1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
