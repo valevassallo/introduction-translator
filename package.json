@@ -1,6 +1,6 @@
 {
   "name": "@valevassallo/introduction-translator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This module helps you translate a basic introduction in multiple languages",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
