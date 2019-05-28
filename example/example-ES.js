@@ -1,6 +1,6 @@
-// TRYING WITH NODE
+// WITH NODE
 
-const translate = require("./../dist/index.js");
+const translate = require("@valevassallo/introduction-translator");
 
 translate("es", "Jimin", "24");
 // output: Hola! Yo soy Jimin y tengo 24 años.
