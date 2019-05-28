@@ -2,14 +2,15 @@
 
 ## Installation
 
-npm: `npm install @valevassallo/introduction-translator`
-yarn: `yarn add @valevassallo/introduction-translator`
+- npm: `npm install @valevassallo/introduction-translator`
+- yarn: `yarn add @valevassallo/introduction-translator`
 
 ## Usage
 
-First, import this module like this: `const translate = require("@valevassallo/introduction-translator");`.
+First, import this module like this:\
+`const translate = require("@valevassallo/introduction-translator");`.
 
-There's the function `translate()` which receives three parameters: the language you want your introduction in, your name and your age.
+There's the function `translate()` which receives three parameters: the language you want your introduction in, your name and your age.\
 It looks like this: `translate(language, name, age)`.
 
 Available languages:
